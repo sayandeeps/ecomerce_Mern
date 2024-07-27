@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules/
+
+# API folder
+backend/.env
+backend/node_modules/
+
+# # Client folder
+# client/.vite/
+# client/node_modules/
+# client/.vercel
+# client/.env
